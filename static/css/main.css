@@ -1,0 +1,13 @@
+/* 
+    Font Rules:
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif; 
+*/
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
